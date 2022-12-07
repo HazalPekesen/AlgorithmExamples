@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\bin\Debug\net6.0\Algorithm_15.exe
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\bin\Debug\net6.0\Algorithm_15.deps.json
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\bin\Debug\net6.0\Algorithm_15.runtimeconfig.json
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\bin\Debug\net6.0\Algorithm_15.dll
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\bin\Debug\net6.0\Algorithm_15.pdb
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\Algorithm_15.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\Algorithm_15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\Algorithm_15.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\Algorithm_15.AssemblyInfo.cs
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\Algorithm_15.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\Algorithm_15.dll
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\refint\Algorithm_15.dll
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\Algorithm_15.pdb
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\Algorithm_15.genruntimeconfig.cache
+C:\Users\pc\Desktop\AlgorithmExamples\Algorithm_15\obj\Debug\net6.0\ref\Algorithm_15.dll
